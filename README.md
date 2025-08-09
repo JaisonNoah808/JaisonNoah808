@@ -1,5 +1,10 @@
-# 💫 About Me:
-# Hi there, I'm Jaison 👋<br><br>🎓 **Computer Science graduate** from the University of Nevada, Las Vegas  <br>💻 Passionate about **software development, problem solving, and building impactful projects**  <br>🌱 Currently learning **cloud technologies** and enhancing my **full-stack development skills**  <br>⚡ Interested in **IT, DevOps, web development, and automation**  <br>📍 Based in **Las Vegas & Hawaii**  
+# Hi there, I'm Jaison 👋
+
+🎓 **Computer Science graduate** from the University of Nevada, Las Vegas  
+💻 Passionate about **software development, problem solving, and building impactful projects**  
+🌱 Currently learning **cloud technologies** and enhancing my **full-stack development skills**  
+⚡ Interested in **IT, DevOps, web development, and automation**  
+📍 Based in **Las Vegas & Hawaii**  
 
 
 ## 🌐 Socials:
