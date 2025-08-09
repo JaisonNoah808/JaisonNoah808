@@ -6,10 +6,7 @@
 ⚡ Interested in **IT, DevOps, web development, and automation**  
 📍 Based in **Las Vegas & Hawaii**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaisonNoah808&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaisonNoah808&layout=compact&theme=tokyonight)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaison-noah-sarte808/) 
