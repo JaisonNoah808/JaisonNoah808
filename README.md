@@ -6,7 +6,8 @@
 ⚡ Interested in **IT, DevOps, web development, and automation**  
 📍 Based in **Las Vegas & Hawaii**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaisonNoah808&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaisonNoah808&exclude_repo=jaisonsarte&layout=compact&theme=tokyonight)
+
 
 
 ## 🌐 Socials:
